@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("aws.dynamodb.attributes_to_get")})();
